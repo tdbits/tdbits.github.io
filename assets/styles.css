@@ -1,0 +1,9 @@
+.copy {
+    margin: 2.5em 0 1.5em 0;
+    font-size: small;
+}
+.copy img {
+    border-width: 0;
+    float: left;
+    margin: 0.25em 1em 0 0;
+}

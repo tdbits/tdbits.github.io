@@ -1,0 +1,4 @@
+public/
+*.lock
+*.tmp
+.DS_Store

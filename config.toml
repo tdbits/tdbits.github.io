@@ -1,0 +1,36 @@
+baseURL = 'http://blog.nerdbits.de/'
+DefaultContentLanguage = "en"
+languageCode = 'en-us'
+title = 'GM Notes'
+theme = 'beautifulhugo'
+[Params]
+  selfHosted = true
+  subtitle = "Pen & Paper stories from the table"
+  mainSections = ["post","posts"]
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "2006-01-01"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = false
+  socialShare = true
+  showRelatedPosts = false
+  hideAuthor = true
+
+[Author]
+  name = "Thomas David"
+  email = "nrdbits@gmail.com"
+  mastodon = "https://rollenspiel.social/@tdbit"
+
+[[menu.main]]
+    name = "About"
+    url = "pages/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
