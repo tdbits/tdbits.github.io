@@ -28,7 +28,7 @@ Let's start ...
     * ... and allows the PCs to take what they find in the mine.
   * with Triumph: The client accepts all demands from the PCs.
   * with Threat:
-    * ... but accepts only a lower raise.
+    * ... but at a lower rate.
     * ... but the PCs have to hand over the leader of the rebellion alive, otherwise the client pays only the originally offered price.
     * ... but the PCs have to find evidence of whom initiated the rebellion, who supports the rebellion, further plans, etc. otherwise the client pays only the originally offered price.
   * with Despair: ... but the client will pay the party only after the mission was successful and the PCs handed over the leader of the rebellion alive and bring evidence of whom initiated the rebellion, who supports the rebellion, further plans, ...
@@ -44,7 +44,7 @@ Let's start ...
   * with Despair:
     * ... and the client will pay the party only after the mission was successful and the PCs handed over the leader of the rebellion alive and bring evidence of whom initiated the rebellion, who supports the rebellion, further plans, ...
 
-So basically if the PCs were successful and have Advantage/Triumph they get what they want with bonus. If they were successful with Threat/Dispair they get their raise but only with harder mission objectives. If they were unsuccessful, but with Advantage/Triumph they will get other or delayed boni. If they were unsuccessful, but with Thread/Despair the mission objectives get harder without more payment.
+So basically if the PCs were successful and have Advantage/Triumph they get what they want with bonus. If they were successful with Threat/Dispair they get their raise but with harder mission objectives. If they were unsuccessful, but with Advantage/Triumph, they will get other or delayed boni. If they were unsuccessful, but with Thread/Despair, the mission objectives get harder without more payment.
 
 If you have suggestions how to interpret the dice results, let me know!
 
