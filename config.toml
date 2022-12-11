@@ -1,4 +1,4 @@
-baseURL = 'http://blog.nerdbits.de/'
+baseURL = 'https://blog.nerdbits.de/'
 DefaultContentLanguage = "en"
 languageCode = 'en-us'
 title = 'GM Notes'
