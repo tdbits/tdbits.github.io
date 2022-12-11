@@ -7,7 +7,7 @@ subtitle: ""
 image: ""
 tags: [genesys,starwarsffg]
 copy: "ncsa"
-draft: true
+draft: false
 ---
 
 A neat aspect of the Genesys™️ RPG system (which is also used in the Star Wars™️ RPG) is that a dice roll can result in more than just success or failure. You can have combined advantages, threats, triumphs or despairs. This can lead to interesting but also contradictory results.
