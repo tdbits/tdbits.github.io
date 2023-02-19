@@ -23,7 +23,7 @@ theme = 'beautifulhugo'
 [Author]
   name = "Thomas David"
   email = "nrdbits@gmail.com"
-  mastodon = "https://rollenspiel.social/@tdbit"
+  mastodon = "https://mastodon.pnpde.social/@tdbit"
 
 [[menu.main]]
     name = "About"
