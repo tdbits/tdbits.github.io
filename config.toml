@@ -20,7 +20,7 @@ theme = 'beautifulhugo'
   showRelatedPosts = false
   hideAuthor = true
 
-[Author]
+[Params.Author]
   name = "Thomas David"
   email = "nrdbits@gmail.com"
   mastodon = "https://mastodon.pnpde.social/@tdbit"
