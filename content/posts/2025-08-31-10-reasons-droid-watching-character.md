@@ -1,5 +1,5 @@
 ---
-title: "10 Reasons Why a Droid is Watching the Player Character Attentively"
+title: "10 reasons why a droid is watching the player character attentively"
 author: "Thomas David"
 type: "post"
 date: 2025-08-31
