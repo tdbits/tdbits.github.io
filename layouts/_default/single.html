@@ -8,16 +8,23 @@
         {{ if eq .Params.copy true}}
         <div class="copy">
           <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
-            <img alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
+            <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CreativeCommons">
+            <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY">
+            <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC">
           </a>
           This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. All trademarks and brand names are the property of their respective owners.
         </div>
         {{else if eq .Params.copy "ncsa"}}
         <div class="copy">
-          <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-            <img alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
-          </a>
-          This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. All trademarks and brand names are the property of their respective owners.
+          <div class="license-pics">
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CreativeCommons">
+              <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY">
+              <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC">
+              <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="SA">
+            </a>
+          </div>
+          <div class="license-text">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. All trademarks and brand names are the property of their respective owners.</div>
         </div>
         {{ end }}
 

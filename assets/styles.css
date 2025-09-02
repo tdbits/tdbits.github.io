@@ -1,9 +1,25 @@
 .copy {
     margin: 2.5em 0 1.5em 0;
     font-size: small;
+    display: flex;
+    align-items: left;
 }
+
+.copy .license-pics {
+    min-width: 8em;
+    margin: auto 0 auto 0;
+}
+
 .copy img {
     border-width: 0;
     float: left;
-    margin: 0.25em 1em 0 0;
+    max-width: 1.5em;
+    max-height: 1.5em;
+    margin: 0 0.25em 0 0;
+}
+
+.box.info {
+    background-color: cyan;
+    margin: 0.5em 1em;
+    padding: 1em;
 }
